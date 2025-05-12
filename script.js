@@ -1,5 +1,5 @@
 const codeMap = {
-  "song1": "songs/song1.html",
+  "drunktrunk": "songs/drunktrunk.html",
   "song2": "songs/song2.html"
 };
 
