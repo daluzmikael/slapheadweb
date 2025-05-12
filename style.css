@@ -18,3 +18,10 @@ body {
     margin-top: 100px;
   }
   
+
+  .subtext {
+    font-size: 14px;
+    color: gray;
+    margin-top: -10px;
+  }
+  
