@@ -1,6 +1,6 @@
 const codeMap = {
   "drunktrunk": "songs/drunktrunk.html",
-  "song2": "songs/song2.html"
+  "saveme": "songs/saveme.html"
 };
 
 function handleCodeSubmit() {
